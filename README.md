@@ -49,6 +49,13 @@ The code to create each part of the webpage is shown below:
  ![image](https://user-images.githubusercontent.com/119640010/224184806-c1e6c1f4-8a4a-4721-b7a5-1570e1dbcd45.png)
 
 
+## Summary
+
+The image below shows the filtered final product. 
+
+![image](https://user-images.githubusercontent.com/119640010/224185771-3e69e016-67ce-4f3e-802a-d305fb73a2dc.png)
+
+
 
 
 
