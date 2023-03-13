@@ -53,6 +53,7 @@ The code to create each part of the webpage is shown below:
 
 The image below shows the filtered final product. 
 
+
 ![image](https://user-images.githubusercontent.com/119640010/224185771-3e69e016-67ce-4f3e-802a-d305fb73a2dc.png)
 
 
